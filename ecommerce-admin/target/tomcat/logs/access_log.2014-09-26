@@ -1,0 +1,8 @@
+0:0:0:0:0:0:0:1 - - [26/Sep/2014:22:03:11 +0800] "GET /ecommerce-admin/category/listAll.do HTTP/1.1" 302 - http-bio-8082-exec-1 36
+0:0:0:0:0:0:0:1 - - [26/Sep/2014:22:03:12 +0800] "GET /ecommerce-admin/login.do HTTP/1.1" 200 1955 http-bio-8082-exec-2 1307
+0:0:0:0:0:0:0:1 - - [26/Sep/2014:22:03:15 +0800] "GET /ecommerce-admin/user/login.do?loginName=root&password=123123 HTTP/1.1" 200 27 http-bio-8082-exec-3 335
+0:0:0:0:0:0:0:1 - - [26/Sep/2014:22:03:15 +0800] "GET /ecommerce-admin/index.do HTTP/1.1" 200 5962 http-bio-8082-exec-4 399
+0:0:0:0:0:0:0:1 - - [26/Sep/2014:22:03:18 +0800] "GET /ecommerce-admin/product/listAll.do HTTP/1.1" 200 39068 http-bio-8082-exec-5 265
+0:0:0:0:0:0:0:1 - - [26/Sep/2014:22:03:18 +0800] "GET /ecommerce-admin/brand/listAll.do HTTP/1.1" 200 8150 http-bio-8082-exec-6 150
+0:0:0:0:0:0:0:1 - - [26/Sep/2014:22:03:20 +0800] "GET /ecommerce-admin/user/listAll.do HTTP/1.1" 200 7279 http-bio-8082-exec-7 146
+0:0:0:0:0:0:0:1 - - [26/Sep/2014:22:03:22 +0800] "GET /ecommerce-admin/user/logout.do HTTP/1.1" 404 949 http-bio-8082-exec-8 11
